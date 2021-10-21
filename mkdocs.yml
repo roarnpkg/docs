@@ -1,0 +1,17 @@
+site_name: Roarn Documentation
+site_url: https://roarnpkg.github.io/docs/
+repo_name: roarnpkg/roarn
+repo_url: https://github.com/roarnpkg/roarn
+dev_addr: "localhost:3000"
+
+theme:
+  name: material
+  pallete:
+    primary: "Cyan"
+
+nav:
+  - Home: index.md
+  - Assistance: Community.md
+  - Advantages of Roarn: roarnAdvantages.md
+  - Get Started:
+      - Installation: GetStarted.md
