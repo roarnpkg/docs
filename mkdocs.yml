@@ -13,5 +13,6 @@ nav:
   - Home: index.md
   - Assistance: Community.md
   - Advantages of Roarn: roarnAdvantages.md
-  - Get Started:
-      - Installation: GetStarted.md
+  - Installation: GetStarted.md
+  - Using EzImport:
+      - EzImport Introduction: ezImportStart.md
