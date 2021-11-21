@@ -11,8 +11,10 @@ theme:
 
 nav:
   - Home: index.md
-  - Assistance: Community.md
   - Advantages of Roarn: roarnAdvantages.md
   - Installation: GetStarted.md
-  - Using EzImport:
+  - Lets import your modules: CurrentModules.md
+  - Assistance: Community.md
+  - Troubleshooting: Troubleshooting.md
+  - Using Roarn Tools:
       - EzImport Introduction: ezImportStart.md

@@ -2,7 +2,7 @@ Lets learn how to install the Roarn CLI so you can get going creating games, and
 
 ## Installing Node.js
 
-Installing the Roarn CLI which will allow you to initialize, publish and add packages to the Roarn registry will require **Node.js v14+**.
+Installing the Roarn CLI which will allow you to initialize, publish and add packages to the Roarn registry will require **Node.js version 15+**.
 
 To install Node.js you can go to their [website](https://nodejs.org/en/).
 
@@ -32,4 +32,4 @@ We have a VSCode Extension on alpha right now. It may have bugs, but it can impr
 
 ## Roblox Plugin
 
-We are in the works for our Roblox plugin that connects with Roarn directly. We'll keep you updated when released.
+We are in the works for our Roblox plugin that connects with Roarn directly expanding our limits. We'll keep you updated when released.

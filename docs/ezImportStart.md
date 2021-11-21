@@ -4,7 +4,17 @@ Importing packages with Roarn may be annoying with constant going back and fourt
 
 ## What is EzImport?
 
-EzImport is a light bundled package that comes with Roarn projects to maximize your workspace when importing items. Using EzImport itself won't require that much of an effort with our VSCode extension which we will touch on more later.
+EzImport is a light bundled package that comes with Roarn initialized projects to maximize your workspace when importing items. Using EzImport itself won't require that much of an effort with our VSCode extension which we will touch on more later.
+
+## Install EzImport
+
+Didn't initialize your project with Roarn? That's alright, you can still install Roarn Tools easily.
+
+```bash
+roarn install roarn_tools
+```
+
+_ur done_
 
 ## How to use EzImport?
 
