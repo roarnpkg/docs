@@ -1,20 +1,62 @@
-site_name: Roarn Documentation
+site_name: Roarn
+site_description: Roblox package management made easier
+site_author: imacodr
 site_url: https://roarnpkg.github.io/docs/
 repo_name: roarnpkg/roarn
 repo_url: https://github.com/roarnpkg/roarn
 dev_addr: "localhost:3000"
 
 theme:
+  logo: extras/logo.png
+  favicon: extras/logo.png
   name: material
-  pallete:
-    primary: "Cyan"
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
 
 nav:
+  - Introduction: index.md
+  - Installation: installation.md
+  - API: api.md
+  - Help!: help.md
+nav:
   - Home: index.md
-  - Advantages of Roarn: roarnAdvantages.md
-  - Installation: GetStarted.md
-  - Lets import your modules: CurrentModules.md
-  - Assistance: Community.md
-  - Troubleshooting: Troubleshooting.md
-  - Using Roarn Tools:
+  - Get Started:
+    - Advantages of Roarn: roarnAdvantages.md
+    - Installation: GetStarted.md
+    - Lets import your modules: CurrentModules.md
+  - Community & Troubleshooting: 
+    - Community: Community.md
+    - Troubleshooting: Troubleshooting.md
+  - Roarn Tools:
       - EzImport Introduction: ezImportStart.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/roarnpkg
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/C3xquja35X
+    - icon: fontawesome/brands/guilded
+      link: https://guilded.gg/roarn
+
+extra_css:
+  - extras/index.css
+
+extra_javascript:
+  - extras/index.js
+
+markdown_extensions:
+  - meta
+  - attr_list
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: Copyright &copy; 2021 Roarn Team

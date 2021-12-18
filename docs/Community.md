@@ -2,8 +2,12 @@ You may run into some problems while installing Roarn. Not a biggie, we are all 
 
 That's why we have community servers to help you with all you need.
 
-[Guilded](https://guilded.gg/roarn) | [Discord](https://discord.gg/C3xquja35X)
+<hr />
+:fontawesome-brands-guilded:{ .guilded } [Guilded](https://guilded.gg/roarn)
+<hr />
+:fontawesome-brands-discord:{ .discord } [Discord](https://discord.gg/C3xquja35X){ .discord }
+<hr />
 
 If you have more specific inquiries send us a DM on Twitter!
 
-[@roarnpkg](https://twitter.com/roarnpkg)
+:fontawesome-brands-twitter:{ .twitter } [@roarnpkg](https://twitter.com/roarnpkg)

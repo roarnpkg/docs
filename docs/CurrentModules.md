@@ -24,10 +24,14 @@ These are the required fields for your `roarn.json` file. Your package will most
 
 ## Step 3
 
-Its now time to publish your package!
+Its now time to publish your package! Use,
 
-Use `roarn publish` to publish your package to the registry. If it all goes as planned you should get that sweet success message at the end. Once you go to your Roarn account you will see your package there.
+```bash
+roarn publish
+```
+
+to publish your package to the registry. If it all goes as planned you should get that sweet success message at the end. Once you go to your Roarn account you will see your package there.
 
 ## Need help?
 
-Refer to [Assistance](./Community.md) so our team can help you out.
+Refer to :point_right: [Assistance](./Community.md) so our team can help you out.

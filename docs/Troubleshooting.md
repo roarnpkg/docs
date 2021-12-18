@@ -8,7 +8,7 @@ If you get this error it probably means you did not add the roarn_modules path t
 
 Go to that file, and replace the **ReplicatedStorage** part to this:
 
-```
+```json
 "ReplicatedStorage": {
 			"$className": "ReplicatedStorage",
 			"Common": {
