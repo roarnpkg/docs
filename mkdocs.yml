@@ -1,7 +1,7 @@
 site_name: Roarn
 site_description: Roblox package management made easier
 site_author: imacodr
-site_url: https://roarnpkg.github.io/docs/
+site_url: https://docs.roarn.space/
 repo_name: roarnpkg/roarn
 repo_url: https://github.com/roarnpkg/roarn
 dev_addr: "localhost:3000"
